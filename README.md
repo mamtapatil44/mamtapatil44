@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mamta Patil</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **React JS, Angular,Javascript,CSS,TailwindCSS**
+- 💬 Ask me about **React JS, Angular,Node JS,Javascript,CSS,TailwindCSS**
 
 - 📫 How to reach me **mamtapatil44@gmail.com**
 

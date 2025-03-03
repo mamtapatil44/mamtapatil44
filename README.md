@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamta Patil</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A passionate MEAN/MERN Stack from India</h3>
 
 - 🌱 I’m currently learning **Node Js**
 

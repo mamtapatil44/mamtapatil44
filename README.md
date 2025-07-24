@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React JS, Angular,Node JS,Javascript,CSS,TailwindCSS**
 
-- 📫 How to reach me **mamtapatil44@gmail.com**
+- 📫 How to reach me **mamtapatil.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
